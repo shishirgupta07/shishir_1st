@@ -1,0 +1,20 @@
+select{
+    color: #f39c12;
+    box-shadow: none;
+    border: 0 !important;
+    background: #2c3e50;
+    position: relative;
+    flex: 1;
+    padding: 0 .5em;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    width: 20em;
+    height: 3em;
+    line-height: 3;
+    background: #4b3e8a;
+    overflow: hidden;
+    border-radius: .25em;
+    background-image: none;
+}
+         
